@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+## 💎 Love Languages
+[![My Skills](https://skillicons.dev/icons?i=php,javascript,python,dart,go)](https://skillicons.dev)
+
+## ⚡ Love Frameworks
+[![My Skills](https://skillicons.dev/icons?i=laravel,vuejs,django,flutter,gin)](https://skillicons.dev)
+
+## 💜 Love Tools
+[![My Skills](https://skillicons.dev/icons?i=docker,git)](https://skillicons.dev)
+
+
 <!--
 **moham7dreza/moham7dreza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
