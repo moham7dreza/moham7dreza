@@ -1,7 +1,17 @@
 ### Hi there 👋
-## I'm a backend developer and M.sc of computer networks at Urmia University
+## I'm a backend developer and M.sc of computer networks at Urmia University Of Iran
 ## i work on my dream project whole of time
 
+<!-- <img src="https://komarev.com/ghpvc/?username=milwad-dev" alt=milwad-dev /> 
+[![Linkedin Badge](https://img.shields.io/badge/-Milwad%20Dev-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/milwad-khosravi-26a355230/)](https://www.linkedin.com/in/milwad-khosravi-26a355230/)
+[![Gmail Badge](https://img.shields.io/badge/-milwad.dev@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:milwad.dev@gmail.com)](mailto:milwad.dev@gmail.com)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=telegram&logoColor=white&link=https://t.me/milwad84dev/)](https://t.me/milwad84dev/)
+
+<strong>
+ I had an account before and now it is deactivated and this is my main account !
+https://github.com/miladev-ent
+ </strong>
+ -->
 <!-- <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
