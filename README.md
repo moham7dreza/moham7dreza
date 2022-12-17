@@ -1,4 +1,6 @@
 ### Hi there 👋
+## I'm a backend developer and M.sc of computer networks at Urmia University
+## i work on my dream project whole of time
 
 <!-- <p align="center">
   <a href="https://skillicons.dev">
@@ -6,7 +8,7 @@
   </a>
 </p> -->
 
-## 💜
+## 💜infinity things for me
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,alpinejs,nodejs,bootstrap,tailwindcss&perline=7)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=php,mysql,python&perline=3)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=laravel,vscode&perline=2)](https://skillicons.dev)
