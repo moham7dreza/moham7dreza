@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## 💜 Love Language, Framework, and Tool
-[![My Skills](https://skillicons.dev/icons?i=php,javascript,python,laravel,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,javascript,python,laravel,git,livewire,tailwindcss)](https://skillicons.dev)
 
 
 <!--
