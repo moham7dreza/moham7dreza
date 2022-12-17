@@ -1,13 +1,7 @@
 ### Hi there 👋
 
-## 💎 Love Languages
-[![My Skills](https://skillicons.dev/icons?i=php,javascript,python,dart,go)](https://skillicons.dev)
-
-## ⚡ Love Frameworks
-[![My Skills](https://skillicons.dev/icons?i=laravel,vuejs,django,flutter,gin)](https://skillicons.dev)
-
-## 💜 Love Tools
-[![My Skills](https://skillicons.dev/icons?i=docker,git)](https://skillicons.dev)
+## 💜 Love Language, Framework, and Tool
+[![My Skills](https://skillicons.dev/icons?i=php,javascript,python,laravel,git)](https://skillicons.dev)
 
 
 <!--
