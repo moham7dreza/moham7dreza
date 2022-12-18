@@ -19,10 +19,12 @@ https://github.com/miladev-ent
 </p> -->
 
 ## 💜infinity things for me
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,alpinejs,nodejs,bootstrap,tailwindcss&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,tailwindcss,alpinejs,vscode,git,github&perline=4)](https://skillicons.dev)
+
+<!-- [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,alpinejs,nodejs,bootstrap,tailwindcss&perline=7)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=php,mysql,python&perline=3)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=laravel,vscode&perline=2)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=git,github,instagram,linkedin,twitter,discord&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,instagram,linkedin,twitter,discord&perline=6)](https://skillicons.dev) -->
 
 <!--
 **moham7dreza/moham7dreza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
