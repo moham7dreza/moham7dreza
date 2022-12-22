@@ -20,7 +20,10 @@ https://github.com/miladev-ent
 </p> -->
 
 ## 💜infinity things for me
-[![My Skills](https://skillicons.dev/icons?i=php,laravel,tailwindcss,alpinejs,vscode,git,github&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,mysql,laravel,,regex,vscode,git,github,stackoverflow&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=tailwindcss,sass,js,alpinejs&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,idea&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,py,tensorflow&perline=4)](https://skillicons.dev)
 
 <!-- [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,alpinejs,nodejs,bootstrap,tailwindcss&perline=7)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=php,mysql,python&perline=3)](https://skillicons.dev)
