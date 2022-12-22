@@ -31,16 +31,20 @@ https://github.com/miladev-ent
     <img src="https://skillicons.dev/icons?i=flutter,dart,idea" />
   </a>
 </p>
-
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux,py,tensorflow" />
   </a>
 </p>
-[![My Skills](https://skillicons.dev/icons?i=php,mysql,laravel,regex,vscode,git,github,stackoverflow)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
+<!-- [![My Skills](https://skillicons.dev/icons?i=php,mysql,laravel,regex,vscode,git,github,stackoverflow)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=tailwindcss,sass,js,alpinejs)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=flutter,dart,idea)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=linux,py,tensorflow)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,py,tensorflow)](https://skillicons.dev) -->
 
 <!-- [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,alpinejs,nodejs,bootstrap,tailwindcss&perline=7)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=php,mysql,python&perline=3)](https://skillicons.dev)
