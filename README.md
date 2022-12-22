@@ -13,13 +13,30 @@ I'm working on my dream project whole time.
 https://github.com/miladev-ent
  </strong>
  -->
+
+
+## 💜infinity things for me
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=php,mysql,laravel,regex,vscode,git,github,stackoverflow" />
   </a>
 </p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=tailwindcss,sass,js,nodejs,alpinejs" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flutter,dart,idea" />
+  </a>
+</p>
 
-## 💜infinity things for me
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,py,tensorflow" />
+  </a>
+</p>
 [![My Skills](https://skillicons.dev/icons?i=php,mysql,laravel,regex,vscode,git,github,stackoverflow)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=tailwindcss,sass,js,alpinejs)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=flutter,dart,idea)](https://skillicons.dev)
