@@ -15,8 +15,6 @@ https://github.com/miladev-ent
  </strong>
 
 -->
-
-# My Skills
  
 <p align="center">
     <a href="https://skillicons.dev">
