@@ -14,13 +14,13 @@ I'm working on my dream project whole time./
 https://github.com/miladev-ent
  </strong>
 
+-->
 
-
-## 💜infinity things for me
- -->
+# My Skills
+ 
 <p align="center">
     <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,mysql,mongo,phpstorm,js,react,nextjs,vite,tailwindcss,webstorm,gitlab,linux" />
+    <img src="https://skillicons.dev/icons?i=laravel,mysql,mongo,phpstorm,nextjs,tailwindcss,webstorm,gitlab,linux" />
   </a>
 </p>
 <!--
