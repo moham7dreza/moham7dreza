@@ -19,8 +19,8 @@ https://github.com/miladev-ent
 ## 💜infinity things for me
  -->
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,mysql,laravel,regex,vscode,git,github,stackoverflow,linkedin,tailwindcss,js" />
+    <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,laravel,mysql,mongo,phpstorm,js,react,nextjs,vite,tailwindcss,webstorm,gitlab,linux" />
   </a>
 </p>
 <!--
