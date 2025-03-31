@@ -1,9 +1,10 @@
 ### Hi there 👋
+<!--
 ## I'm a backend developer and M.sc of computer networks at Urmia University Of Iran
 ## $programmer = "A machine that turns coffee into the code";
-I'm working on my dream project whole time.
+I'm working on my dream project whole time./
 
-<!-- <img src="https://komarev.com/ghpvc/?username=milwad-dev" alt=milwad-dev /> 
+ <img src="https://komarev.com/ghpvc/?username=milwad-dev" alt=milwad-dev /> 
 [![Linkedin Badge](https://img.shields.io/badge/-Milwad%20Dev-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/milwad-khosravi-26a355230/)](https://www.linkedin.com/in/milwad-khosravi-26a355230/)
 [![Gmail Badge](https://img.shields.io/badge/-milwad.dev@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:milwad.dev@gmail.com)](mailto:milwad.dev@gmail.com)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=telegram&logoColor=white&link=https://t.me/milwad84dev/)](https://t.me/milwad84dev/)
@@ -12,15 +13,17 @@ I'm working on my dream project whole time.
  I had an account before and now it is deactivated and this is my main account !
 https://github.com/miladev-ent
  </strong>
- -->
+
 
 
 ## 💜infinity things for me
+ -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,mysql,laravel,regex,vscode,git,github,stackoverflow" />
+    <img src="https://skillicons.dev/icons?i=php,mysql,laravel,regex,vscode,git,github,stackoverflow,linkedin,tailwindcss,js" />
   </a>
 </p>
+<!--
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=tailwindcss,sass,js,nodejs,alpinejs" />
@@ -41,7 +44,7 @@ https://github.com/miladev-ent
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
-<!-- [![My Skills](https://skillicons.dev/icons?i=php,mysql,laravel,regex,vscode,git,github,stackoverflow)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=php,mysql,laravel,regex,vscode,git,github,stackoverflow)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=tailwindcss,sass,js,alpinejs)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=flutter,dart,idea)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=linux,py,tensorflow)](https://skillicons.dev) -->
